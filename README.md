@@ -1,4 +1,4 @@
 
-## Sample App to test NGINX on localhost
+## Example app to test how Django messages framework work
 
 
